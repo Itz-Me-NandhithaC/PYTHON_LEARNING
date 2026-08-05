@@ -1,4 +1,5 @@
-# 👋 Welcome to **Guess Me – A Python Learning Journey** 🐍🚀
+# 👋 Welcome to **Itz-Me-NandhithaC**
+– **A Python Learning Journey** 🐍🚀
 
 ## 🌟 About This Repository
 
