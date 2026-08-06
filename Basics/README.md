@@ -234,7 +234,7 @@ If you have ideas for improving the code or logic, feel free to open an issue or
 
 **Nandhitha C**
 
-GitHub: https://github.com/NandhithaC23-brave
+GitHub: https://github.com/Itz-Me-NandhithaC/
 Google_Drive:https://drive.google.com/file/d/1c5F88YrgYYFJ5jSQAHf_T3vor9j57Bwd/view?usp=drive_link
 
 ---
