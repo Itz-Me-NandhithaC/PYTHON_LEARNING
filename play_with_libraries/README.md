@@ -1,8 +1,9 @@
-# Python Data Analysis & Visualization Libraries
+# Introduction to Visualization Libraries
 
 A beginner-friendly Jupyter Notebook introducing the core Python libraries commonly used for **data analysis, numerical computing, and data visualization**.
 
 The notebook is named `Intro_libraries.ipynb` and uses a **Python 3.10.11** kernel. It introduces Pandas and NumPy, then moves into Matplotlib, Seaborn, and Plotly, with examples based on a Superstore-style dataset.
+*DATASET from KAGGLE:*https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset?utm_source=chatgpt.com
 
 ## 📌 Overview
 
@@ -29,7 +30,7 @@ This notebook covers:
 | **Seaborn** | Statistical/data visualization | Setup only |
 | **Plotly** | Interactive visualization | Conceptual introduction |
 
-## 📊 Dataset
+## 📊 Dataset:https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset?utm_source=chatgpt.com
 
 The notebook loads a file named:
 
@@ -248,7 +249,7 @@ The notebook installs Plotly and records **Plotly 6.9.0** as successfully instal
 A shortcut note included in the notebook:
 
 > Use `Shift + Tab` on a function to inspect what it does.
-
+> Use `Tab` after `pd.` from view the functions,class,methods etc from the `PANDAS`
 This is useful for quickly viewing function signatures and documentation while working in Jupyter.
 
 ## 🔍 Learning Outcomes
