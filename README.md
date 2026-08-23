@@ -1,7 +1,7 @@
 # HEY✋, This is Nandhitha C
 
   " PLANNED DO LEARN PYTHON
-    *with help from YOUTUBE 'AI-COACH-JHON':`https://www.youtube.com/watch?v=QGAuolgCTHE&t=14834s`
+    *with help from YOUTUBE 'AI-COACH-JHON': https://www.youtube.com/watch?v=QGAuolgCTHE&t=14834s
     
 # "Total HOUR OF VIDEO 13hrs,
 > I practicing from it ,
