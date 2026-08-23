@@ -1,12 +1,14 @@
-# Python Data Analysis & Visualization Libraries
+# Introduction Visualization Libraries
 
 A beginner-friendly Jupyter Notebook introducing the core Python libraries commonly used for **data analysis, numerical computing, and data visualization**.
 
 The notebook is named `Intro_libraries.ipynb` and uses a **Python 3.10.11** kernel. It introduces Pandas and NumPy, then moves into Matplotlib, Seaborn, and Plotly, with examples based on a Superstore-style dataset.
+* DATASET FROM KAGGLE*
+  https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset?utm_source=chatgpt.com
 
 ## 📌 Overview
 
-This notebook covers:
+This notebook covers: JUST GENERAL NOT DEEP
 
 - Python terminology: **functions, modules, methods, libraries, and packages**
 - **Pandas** for data analysis and DataFrame operations
@@ -31,7 +33,8 @@ This notebook covers:
 
 ## 📊 Dataset
 
-The notebook loads a file named:
+The notebook loads a file named:samplessuperstore.csv
+https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset?utm_source=chatgpt.com
 
 ```text
 samplesuperstore.csv
@@ -248,6 +251,7 @@ The notebook installs Plotly and records **Plotly 6.9.0** as successfully instal
 A shortcut note included in the notebook:
 
 > Use `Shift + Tab` on a function to inspect what it does.
+> Use `Tab` after the `pd.` we can see function,class,methods etc from *Pandas*
 
 This is useful for quickly viewing function signatures and documentation while working in Jupyter.
 
@@ -306,31 +310,11 @@ Intro_libraries.ipynb
 
 and run the cells from top to bottom.
 
-## 📂 Suggested Repository Structure
 
-```text
-project/
-│
-├── Intro_libraries.ipynb
-├── samplesuperstore.csv
-├── README.md
-└── requirements.txt
-```
-
-Suggested `requirements.txt`:
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-jupyter
-```
 
 ## ⚠️ Notes
 
-- The notebook is primarily a **learning/reference notebook**, rather than a complete end-to-end data analysis project.
+- The notebook is primarily a **learning/reference notebook**, rather than a complete end-to-end data analysis .
 - Some cells contain installation commands such as `pip install matplotlib`, `pip install seaborn`, and `pip install plotly`.
 - The recorded Matplotlib histogram cell produced a `NameError` because `super_store` was unavailable in that execution state.
 - Seaborn is installed, but the recorded notebook does not contain a substantial Seaborn visualization example.
