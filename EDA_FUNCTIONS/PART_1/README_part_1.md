@@ -3,12 +3,6 @@
 Welcome to **Learn Functions – Part 1**! 🚀  
 This Jupyter Notebook introduces the fundamentals of **Exploratory Data Analysis (EDA)** using Python and **Pandas**. The notebook uses a Superstore-style sales dataset to demonstrate how to load and inspect tabular data.
 
-## 📌 Project Overview
-
-Exploratory Data Analysis (EDA) is the process of examining, cleaning, summarizing, and visualizing a dataset before building reports or machine-learning models.
-
-In this first part, the focus is on understanding the structure of a dataset and learning some of the most useful Pandas DataFrame methods.
-
 ## 🗂️ Dataset
 
 The notebook works with `samplesuperstore.csv`.
@@ -148,23 +142,6 @@ The notebook highlights why understanding data types is important. For example, 
 - 🐼 **Pandas**
 - 📓 **Jupyter Notebook**
 - 📄 **CSV**
-
-## 📁 Project Structure
-
-```text
-.
-├── Learn_Functions_part_1.ipynb
-├── samplesuperstore.csv
-└── README.md
-```
-
-## ▶️ How to Run
-
-1. Clone or download this repository.
-2. Make sure Python and Jupyter Notebook are installed.
-3. Place `samplesuperstore.csv` in the same directory as the notebook.
-4. Open `Learn_Functions_part_1.ipynb`.
-5. Run the cells sequentially.
 
 Install Pandas if required:
 
