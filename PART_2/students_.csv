@@ -1,0 +1,1000 @@
+Student_ID,Name,Gender,Department,Email,Phone,Attendance,Fee,Join_Date,City,Score
+ST1497,Rahul,female,AI&DS,,9876543210,,45k,2026-01-31, Bangalore,
+ST1350,Aisha,,AI&DS,,+91-9876543210,85%,"?45,000",10/02/2025,,69
+ST1144,John,m,I.T,,09876543210,0.78,"?60,500",09/09/2025,Chennai,105
+ST1336,Sara,Male,Computer Science,saragmail.com,98765 43210,92,45000,29 Jan 26,Chennai,100
+ST1509,Rahul,female,Computer Science,,9876543210,92,45k,23 Apr 26,Delhi,
+ST1333,Priya,female,IT,priya@gamil.com,09876543210,,45k,17 May 25,Delhi,105
+ST1279,Monica,M,AI DS,monica@gmail.com,N/A,0.78,"?45,000",23 Jun 25,Delhi,83
+ST1146, Huzaifa ,Female,AI&DS,huzaifa@gmail.com,N/A,Absent,"?45,000",14 Dec 25,Pune,105
+ST1340,Balakrishnan,Female,AI&DS,balakrishnan@gamil.com,98765 43210,0.78,45000,2025-12-30,Hyderabad ,-5
+ST1108,Balakrishnan,m,IT,balakrishnan@gamil.com,9876543210,0.78,45k,29/04/2026,Delhi,105
+ST1415,Deepak,F,AI&DS,deepak@gamil.com,N/A,101%,"?60,500",14 Apr 26,,24
+ST1224,mOhammed,F,I.T,mohammedgmail.com,9876543210,0.78,"?60,500",30/04/2026,Pune,35
+ST1072,Sara,Female,CSE,sara@gamil.com,98765 43210,92,"?45,000",2025-12-23, Bangalore,105
+ST1267, Huzaifa ,m,AI DS,,98765 43210,,Paid,2026-05-06,Chennai,
+ST1338,John,Female,Artificial Intelligence,john@gamil.com,9876543210,92,Paid,05 Apr 26,Chennai,
+ST1240,mOhammed,Male,CSE,mohammed@gamil.com,9876543210,,45k,19/05/2025,Delhi,84
+ST1196,Sara,M,AI DS,,N/A,Absent,45000,10 Mar 25,Chennai,105
+ST1453,Sara,M,IT,,+91-9876543210,101%,Paid,03 Feb 25,Hyderabad ,-5
+ST1331,Rahul,Male,AI DS,rahulgmail.com,09876543210,92,"?60,500",22/04/2025,,AB
+ST1355,,female,AI&DS,,+91-9876543210,85%,"?45,000",13/10/2025,,70
+ST1179,Rahul,Male,Artificial Intelligence,,+91-9876543210,0.78,45k,03 Feb 25,Hyderabad ,
+ST1337,Balakrishnan,female,Computer Science,balakrishnan@gmail.com,N/A,,45000,2025-10-25,Chennai,AB
+ST1329,Monica,m,AI DS,,+91-9876543210,0.78,45k,2026-02-01, Bangalore,-5
+ST1203,mOhammed,male,AI DS,mohammed@gmail.com,9876543210,85%,Paid,04/02/2026,Chennai,105
+ST1255,Aisha,female,Artificial Intelligence,,+91-9876543210,101%,"?60,500",17 Jul 25, Bangalore,AB
+ST1303, Huzaifa ,,AIDS,huzaifa@gamil.com,+91-9876543210,0.78,,2025-09-13, Bangalore,
+ST1175,Balakrishnan,female,I.T,balakrishnan@gmail.com,9876543210,,,26 Feb 25, Bangalore,-5
+ST1388,Balakrishnan,Male,I.T,,09876543210,0.78,45k,26/10/2025, Bangalore,63
+ST1138,Balakrishnan,m,IT,balakrishnangmail.com,+91-9876543210,85%,Paid,2025-12-16,Pune,105
+ST1487,Monica,female,AI DS,monica@gmail.com,+91-9876543210,Absent,45k,28/02/2025,Hyderabad ,
+ST1338,Sara,male,AI DS,sara@gamil.com,+91-9876543210,92,"?60,500",10 Feb 25,Hyderabad ,-5
+ST1176,Rahul,,AIDS,rahul@gmail.com,09876543210,85%,"?45,000",30/05/2025,Delhi,
+ST1248,Balakrishnan,Male,AIDS,balakrishnan@gamil.com,98765 43210,,Paid,04 May 25,Chennai,AB
+ST1441,,m,AI&DS,user@gamil.com,+91-9876543210,Absent,Paid,29/01/2026,Delhi,-5
+ST1187,Balakrishnan,,AIDS,balakrishnan@gmail.com,+91-9876543210,101%,,12 Sep 25, Bangalore,
+ST1316,Balakrishnan,Male,IT,balakrishnan@gamil.com,98765 43210,0.78,45000,21 Oct 25,,AB
+ST1420,Aisha,,IT,aisha@gamil.com,9876543210,85%,"?60,500",28 Sep 25,Delhi,105
+ST1404,Rahul,F,AI&DS,,+91-9876543210,92,Paid,07 Jan 26,,65
+ST1112,Rahul,female,Computer Science,,N/A,92,"?60,500",2025-03-11,Hyderabad ,105
+ST1440,Rahul,m,I.T,rahul@gamil.com,98765 43210,101%,,06/12/2025,Delhi,-5
+ST1449, Huzaifa ,m,CSE,huzaifa@gmail.com,N/A,92,Paid,2025-10-03,Delhi,105
+ST1011,mOhammed,male,Computer Science,mohammed@gmail.com,98765 43210,92,45000,04/12/2025,Delhi,22
+ST1494,Rahul,female,Artificial Intelligence,rahulgmail.com,+91-9876543210,101%,,2025-04-22,Pune,84
+ST1137,Monica,F,I.T,monica@gamil.com,+91-9876543210,,45k,03 Apr 26,,-5
+ST1207,mOhammed,F,AI&DS,mohammed@gmail.com,09876543210,92,,2025-10-26,Pune,105
+ST1029, Huzaifa ,Male,CSE,huzaifa@gamil.com,98765 43210,Absent,45000,17 Oct 25, Bangalore,
+ST1140,Deepak,F,AI&DS,deepak@gmail.com,09876543210,85%,,15 Nov 25, Bangalore,AB
+ST1477,Priya,M,IT,priya@gmail.com,98765 43210,0.78,45k,09 May 25,Hyderabad ,AB
+ST1337,Deepak,female,CSE,deepakgmail.com,09876543210,0.78,45k,23 Feb 25,Chennai,105
+ST1026,,m,CSE,,9876543210,85%,,2025-07-20,Delhi,-5
+ST1204, Huzaifa ,,CSE,huzaifa@gmail.com,N/A,Absent,45k,2026-01-07,Chennai,-5
+ST1166,,,Artificial Intelligence,user@gmail.com,+91-9876543210,85%,45000,29/01/2026,Hyderabad ,AB
+ST1116,Deepak,male,AI DS,deepak@gamil.com,09876543210,0.78,Paid,10/01/2025,Pune,-5
+ST1052,Deepak,m,AI&DS,deepak@gmail.com,N/A,Absent,,03 Nov 25,Chennai,-5
+ST1509,Aisha,M,I.T,aisha@gmail.com,+91-9876543210,101%,Paid,27/10/2025,Chennai,-5
+ST1084,Rahul,,AI DS,,+91-9876543210,92,"?45,000",08 Feb 25,Chennai,105
+ST1029,Aisha,Male,AI DS,aishagmail.com,+91-9876543210,92,45000,23 Jan 25, Bangalore,-5
+ST1018,mOhammed,F,I.T,mohammedgmail.com,N/A,101%,45000,31/08/2025,Delhi,47
+ST1203,Sara,male,IT,sara@gmail.com,9876543210,Absent,"?45,000",18/02/2026,Chennai,105
+ST1115,Monica,m,IT,monicagmail.com,N/A,101%,45k,2025-01-30,Chennai,
+ST1244,Deepak,M,CSE,,9876543210,101%,"?60,500",16/07/2025,Chennai,40
+ST1400,,M,I.T,user@gmail.com,+91-9876543210,,"?60,500",06/07/2025,Pune,
+ST1096,Sara,,AI&DS,,N/A,85%,"?45,000",2025-04-11,Chennai,-5
+ST1407,Aisha,female,Artificial Intelligence,,98765 43210,0.78,45k,2025-04-05,Chennai,
+ST1378,Deepak,female,IT,deepak@gamil.com,9876543210,,"?45,000",2025-09-03,Pune,AB
+ST1300,Balakrishnan,F,I.T,balakrishnan@gamil.com,+91-9876543210,Absent,"?60,500",03/09/2025,Chennai,-5
+ST1248,Aisha,m,I.T,,N/A,85%,,17/02/2026, Bangalore,-5
+ST1215,,M,AIDS,user@gamil.com,N/A,0.78,"?60,500",2025-03-02, Bangalore,69
+ST1498,Priya,M,Computer Science,,98765 43210,92,"?60,500",07 Apr 25,Pune,105
+ST1503,Priya,male,CSE,,9876543210,Absent,45k,24/11/2025,Chennai,AB
+ST1270,mOhammed,Female,CSE,mohammedgmail.com,+91-9876543210,101%,"?45,000",25 Apr 26,,AB
+ST1027,Balakrishnan,Male,I.T,balakrishnan@gamil.com,09876543210,Absent,,15/06/2025,Delhi,-5
+ST1488,mOhammed,M,I.T,mohammed@gamil.com,98765 43210,0.78,45000,16/10/2025,Hyderabad ,AB
+ST1454,Aisha,,AI DS,,98765 43210,101%,45000,21/02/2025, Bangalore,
+ST1415,Aisha,M,AI&DS,aisha@gmail.com,9876543210,0.78,Paid,2025-10-30,Hyderabad ,AB
+ST1112,Sara,M,I.T,saragmail.com,+91-9876543210,85%,,30 Apr 25,Delhi,
+ST1042,Priya,Male,AI&DS,,9876543210,0.78,"?45,000",17/02/2025,Chennai,
+ST1437,Priya,,AI&DS,priya@gamil.com,N/A,0.78,"?45,000",11 Feb 26,Hyderabad ,-5
+ST1041,Rahul,Female,IT,rahul@gamil.com,98765 43210,Absent,,27 Sep 25,Hyderabad ,AB
+ST1123,Balakrishnan,F,I.T,,9876543210,101%,45000,18 Aug 25,Hyderabad ,99
+ST1430,Rahul,male,Artificial Intelligence,rahul@gmail.com,+91-9876543210,85%,"?60,500",10 Dec 25,Pune,-5
+ST1138,Rahul,male,Computer Science,rahul@gmail.com,+91-9876543210,,"?60,500",24 Feb 26,Delhi,63
+ST1434,Deepak,F,Computer Science,deepak@gmail.com,N/A,0.78,"?45,000",26/03/2026,Delhi,AB
+ST1002,mOhammed,Male,IT,,98765 43210,0.78,Paid,05 Jan 25,Delhi,63
+ST1450,Aisha,m,Artificial Intelligence,aisha@gamil.com,09876543210,0.78,45000,2026-04-09,,105
+ST1185,Balakrishnan,m,I.T,balakrishnangmail.com,N/A,,,25 Feb 26,Pune,
+ST1465,John,Female,Computer Science,john@gmail.com,9876543210,85%,Paid,2025-05-26,Pune,105
+ST1503,Deepak,female,Artificial Intelligence,deepak@gamil.com,9876543210,101%,Paid,12 Jan 25,Chennai,AB
+ST1153,Deepak,female,I.T,deepak@gamil.com,09876543210,Absent,"?60,500",2025-08-03,Hyderabad ,AB
+ST1010,Priya,female,IT,priya@gmail.com,98765 43210,85%,45000,2025-09-26, Bangalore,
+ST1115,Balakrishnan,M,Computer Science,balakrishnangmail.com,+91-9876543210,101%,"?60,500",19/09/2025,,-5
+ST1301,mOhammed,M,Computer Science,mohammedgmail.com,9876543210,92,,16/01/2026,,AB
+ST1477,Rahul,male,IT,,9876543210,0.78,"?60,500",06/04/2026,Pune,64
+ST1255,John,F,I.T,johngmail.com,09876543210,101%,45000,2026-04-27,Delhi,
+ST1212,John,female,CSE,john@gamil.com,+91-9876543210,,45k,25/04/2025, Bangalore,-5
+ST1102, Huzaifa ,M,I.T,huzaifa@gamil.com,N/A,92,45000,22/02/2026,Pune,AB
+ST1336,Sara,male,CSE,,09876543210,,Paid,2025-07-10,Delhi,AB
+ST1388,Monica,Female,AI DS,monica@gamil.com,N/A,92,"?45,000",15/02/2025, Bangalore,105
+ST1296,Sara,Female,Artificial Intelligence,sara@gamil.com,98765 43210,,"?60,500",13 Mar 25,Hyderabad ,105
+ST1307,Deepak,M,Computer Science,deepakgmail.com,9876543210,101%,45000,30 Jul 25,Pune,-5
+ST1059, Huzaifa ,F,AI DS,,09876543210,85%,45k,21/02/2026,Chennai,AB
+ST1439,Deepak,,CSE,deepak@gmail.com,98765 43210,Absent,45000,24/07/2025,Chennai,
+ST1177,Balakrishnan,m,AI&DS,balakrishnan@gmail.com,9876543210,Absent,,02/02/2026,Chennai,105
+ST1515,Priya,female,I.T,priya@gamil.com,N/A,0.78,"?45,000",2025-12-07,Delhi,AB
+ST1448,Sara,Male,AIDS,sara@gmail.com,N/A,,"?45,000",2025-09-07,,89
+ST1232,Monica,M,AI&DS,,+91-9876543210,,45k,04/05/2026,Delhi,
+ST1190,Deepak,male,AIDS,deepak@gmail.com,+91-9876543210,0.78,"?60,500",2025-06-01,Hyderabad ,AB
+ST1308,John,M,IT,john@gamil.com,9876543210,0.78,"?45,000",2026-04-15,Hyderabad ,98
+ST1124,mOhammed,F,CSE,mohammed@gamil.com,09876543210,0.78,"?60,500",2025-12-23,Delhi,105
+ST1474,,,AI&DS,user@gmail.com,+91-9876543210,,,2026-01-09,Hyderabad ,
+ST1503,Priya,M,CSE,priya@gamil.com,9876543210,Absent,45k,05/09/2025,Chennai,105
+ST1249,mOhammed,F,AI DS,mohammedgmail.com,98765 43210,85%,45k,2025-08-03,Hyderabad ,
+ST1446,Monica,F,Artificial Intelligence,monica@gmail.com,9876543210,,"?60,500",2026-02-15, Bangalore,AB
+ST1400,John,m,AIDS,john@gamil.com,+91-9876543210,92,45000,28/01/2026,Pune,AB
+ST1214,Monica,Male,CSE,,9876543210,Absent,45000,19 Feb 25,Pune,44
+ST1222,Rahul,Female,AI DS,rahul@gmail.com,09876543210,101%,45k,04/02/2025,Pune,99
+ST1319,Monica,,I.T,monica@gmail.com,N/A,92,"?45,000",08/06/2025,Hyderabad ,105
+ST1128,Monica,F,I.T,monica@gamil.com,98765 43210,85%,,2025-06-08,Pune,105
+ST1388,Deepak,m,IT,deepak@gamil.com,98765 43210,101%,Paid,06 Sep 25,Pune,105
+ST1311,Priya,F,AI DS,,09876543210,85%,"?45,000",24 Mar 26,Hyderabad ,105
+ST1020,Deepak,Male,I.T,deepak@gmail.com,9876543210,Absent,"?60,500",2026-01-19,Chennai,-5
+ST1330,Monica,M,AI DS,monicagmail.com,+91-9876543210,101%,Paid,30 Mar 25, Bangalore,
+ST1373,Rahul,M,Artificial Intelligence,,98765 43210,0.78,45k,20/03/2026,Delhi,-5
+ST1427,John,male,IT,john@gmail.com,09876543210,85%,45000,01 Jun 25,Chennai,49
+ST1006,,female,Artificial Intelligence,usergmail.com,98765 43210,85%,Paid,13 Sep 25,Delhi,AB
+ST1185,Aisha,Male,AI&DS,aisha@gmail.com,09876543210,85%,45k,05 May 26,Pune,
+ST1355,Monica,M,AI&DS,monicagmail.com,98765 43210,0.78,"?45,000",19/02/2025,,-5
+ST1132,Sara,,I.T,,09876543210,85%,"?45,000",2026-03-05,,-5
+ST1262,Monica,M,Computer Science,monica@gmail.com,09876543210,,Paid,23 Sep 25,,49
+ST1042,Aisha,,AIDS,aishagmail.com,+91-9876543210,92,"?60,500",31/08/2025,Pune,105
+ST1209,Deepak,M,AI&DS,,9876543210,92,45k,2025-04-30,,105
+ST1461,Monica,female,IT,monica@gmail.com,+91-9876543210,Absent,,28/03/2025,Chennai,-5
+ST1093,Deepak,male,CSE,,9876543210,101%,45000,2025-07-26,,-5
+ST1482,Priya,male,Artificial Intelligence,,9876543210,0.78,,08/09/2025,Pune,
+ST1495,Sara,Male,CSE,saragmail.com,+91-9876543210,92,,31 Jan 26, Bangalore,AB
+ST1071,Priya,Male,AIDS,priyagmail.com,09876543210,92,,29 Mar 25, Bangalore,30
+ST1370,,female,Computer Science,user@gamil.com,09876543210,85%,45000,19/08/2025,Pune,AB
+ST1383,Priya,female,I.T,priya@gmail.com,09876543210,101%,Paid,26 Mar 25,Chennai,-5
+ST1060,John,F,I.T,johngmail.com,+91-9876543210,85%,"?45,000",14/08/2025, Bangalore,AB
+ST1245,Rahul,M,I.T,,9876543210,Absent,,24 Jun 25,Delhi,-5
+ST1223,John,M,Computer Science,johngmail.com,98765 43210,Absent,,09/01/2025,Hyderabad ,AB
+ST1280, Huzaifa ,F,IT,huzaifa@gamil.com,N/A,85%,Paid,2026-05-07,Pune,
+ST1205,John,male,CSE,,N/A,Absent,,24 Jul 25,Chennai,62
+ST1057,Rahul,F,I.T,,9876543210,85%,45k,2025-03-16,Hyderabad ,AB
+ST1086,Aisha,Female,Artificial Intelligence,aisha@gmail.com,+91-9876543210,101%,"?45,000",19 Mar 26,Pune,-5
+ST1350,Sara,,AI&DS,,9876543210,Absent,45000,16/06/2025,Hyderabad ,
+ST1350,Deepak,M,AI&DS,deepak@gamil.com,N/A,85%,45k,2025-03-07,Delhi,90
+ST1043, Huzaifa ,,Artificial Intelligence,,+91-9876543210,92,"?45,000",16 Oct 25,,AB
+ST1057,,,AI&DS,user@gmail.com,98765 43210,85%,"?45,000",24/09/2025,Hyderabad ,AB
+ST1420,Balakrishnan,male,IT,balakrishnangmail.com,N/A,0.78,45000,01 Feb 26, Bangalore,
+ST1099,Monica,female,I.T,monica@gmail.com,+91-9876543210,85%,Paid,28/12/2025,Chennai,31
+ST1224,Balakrishnan,Male,AIDS,balakrishnan@gamil.com,98765 43210,85%,"?45,000",05 Oct 25,Hyderabad ,AB
+ST1302,Monica,F,AI DS,,N/A,85%,"?45,000",18 Dec 25,,55
+ST1180,Balakrishnan,female,Artificial Intelligence,balakrishnan@gamil.com,09876543210,85%,"?45,000",24/04/2025,,26
+ST1243,Monica,m,AI DS,monicagmail.com,+91-9876543210,,,11 Nov 25,,27
+ST1291,Balakrishnan,m,Computer Science,,N/A,101%,,2025-01-01, Bangalore,AB
+ST1145,Balakrishnan,M,AI&DS,balakrishnan@gmail.com,09876543210,92,"?60,500",2026-03-05,Chennai,-5
+ST1393,,m,CSE,,98765 43210,92,"?60,500",23/06/2025,,AB
+ST1289,Rahul,Female,Artificial Intelligence,rahul@gmail.com,+91-9876543210,85%,Paid,21/02/2026,Hyderabad ,AB
+ST1128, Huzaifa ,female,AI&DS,huzaifa@gamil.com,98765 43210,,45k,05 Feb 25,Delhi,105
+ST1487,John,F,AIDS,johngmail.com,98765 43210,101%,"?60,500",28 Feb 25,Chennai,72
+ST1503,Rahul,M,Computer Science,rahulgmail.com,98765 43210,92,45000,10/02/2025,,
+ST1505, Huzaifa ,F,Computer Science,,09876543210,85%,,2025-06-14,Delhi,
+ST1352,John,,I.T,,09876543210,92,"?60,500",2025-03-03,Hyderabad ,AB
+ST1133,mOhammed,male,AI DS,mohammed@gmail.com,9876543210,92,45k,30/05/2025,Pune,105
+ST1469,Balakrishnan,,AI&DS,,+91-9876543210,0.78,,2025-06-21,Chennai,AB
+ST1052,,M,IT,usergmail.com,+91-9876543210,92,Paid,27/01/2025,Pune,AB
+ST1000,John,F,AI&DS,john@gamil.com,9876543210,85%,45000,20/07/2025,Hyderabad ,105
+ST1057,Monica,M,Computer Science,,98765 43210,0.78,45000,30 Aug 25,Pune,-5
+ST1109, Huzaifa ,,CSE,,98765 43210,101%,"?60,500",23/12/2025,Hyderabad ,
+ST1505,Sara,,IT,sara@gmail.com,09876543210,92,"?60,500",16/10/2025,Hyderabad ,105
+ST1174,Aisha,Female,Artificial Intelligence,,N/A,92,,11 Oct 25, Bangalore,36
+ST1120,John,male,AI DS,john@gamil.com,N/A,85%,"?60,500",2025-04-02,Hyderabad ,
+ST1066,Priya,m,Computer Science,priyagmail.com,+91-9876543210,92,"?45,000",2025-06-08,Hyderabad ,AB
+ST1327,Deepak,m,AI DS,deepak@gmail.com,98765 43210,,"?60,500",03/06/2025,Hyderabad ,
+ST1069,mOhammed,male,Artificial Intelligence,mohammedgmail.com,09876543210,85%,Paid,22/03/2025,,-5
+ST1473,Balakrishnan,M,AIDS,,N/A,0.78,"?45,000",18/08/2025, Bangalore,105
+ST1380,Monica,Female,Artificial Intelligence,,N/A,0.78,45000,14 Aug 25,,94
+ST1197,Sara,F,CSE,sara@gamil.com,98765 43210,Absent,"?60,500",25/03/2025, Bangalore,98
+ST1332,John,male,AI&DS,johngmail.com,+91-9876543210,85%,45k,2025-11-26,Chennai,105
+ST1208,Monica,M,AIDS,,+91-9876543210,85%,"?60,500",30 May 25,Hyderabad ,AB
+ST1403,Monica,female,AI DS,monica@gamil.com,+91-9876543210,85%,45000,2026-04-25,Hyderabad ,42
+ST1216,mOhammed,M,IT,mohammed@gmail.com,N/A,101%,,13/10/2025, Bangalore,-5
+ST1475, Huzaifa ,Male,IT,huzaifa@gmail.com,9876543210,92,"?45,000",23 Jan 26,,-5
+ST1084,Rahul,m,Computer Science,rahulgmail.com,N/A,92,"?60,500",06/03/2025,Pune,105
+ST1401,Monica,male,Artificial Intelligence,monicagmail.com,9876543210,92,45000,2026-01-27,Hyderabad ,33
+ST1069,,female,I.T,,09876543210,101%,45000,09 Feb 26,Pune,-5
+ST1459,Sara,F,Artificial Intelligence,sara@gamil.com,09876543210,,"?45,000",2026-01-22, Bangalore,
+ST1405,Sara,M,IT,,09876543210,Absent,45k,01 Feb 25,Chennai,AB
+ST1307,mOhammed,m,Computer Science,mohammed@gamil.com,N/A,92,45k,01 May 25,,61
+ST1299,Balakrishnan,,Artificial Intelligence,balakrishnan@gamil.com,9876543210,,45000,2025-09-25,,105
+ST1127,John,M,I.T,john@gmail.com,09876543210,,"?45,000",2025-03-04,Chennai,-5
+ST1252,Deepak,F,Artificial Intelligence,deepak@gmail.com,+91-9876543210,101%,"?45,000",2025-08-12,Chennai,105
+ST1109, Huzaifa ,m,AI DS,,9876543210,Absent,"?45,000",2026-03-03,,AB
+ST1023,Monica,Female,Computer Science,monica@gamil.com,N/A,92,,06/06/2025,Pune,25
+ST1233,Deepak,male,Artificial Intelligence,deepak@gmail.com,98765 43210,,45000,19 Mar 25,Pune,-5
+ST1451,Balakrishnan,F,Artificial Intelligence,balakrishnan@gmail.com,+91-9876543210,92,45000,2026-03-19,Chennai,105
+ST1336,Balakrishnan,M,Artificial Intelligence,balakrishnan@gmail.com,9876543210,0.78,"?45,000",2025-03-20,Pune,94
+ST1503, Huzaifa ,F,IT,,09876543210,,"?60,500",22 Apr 25,Pune,-5
+ST1513,Aisha,Male,AI DS,aisha@gmail.com,09876543210,101%,Paid,13 Jun 25,Hyderabad ,AB
+ST1315,John,,Artificial Intelligence,john@gamil.com,N/A,85%,,17/08/2025,Hyderabad ,AB
+ST1516, Huzaifa ,Male,AI DS,huzaifagmail.com,09876543210,92,"?45,000",20 Jul 25,Pune,-5
+ST1446,Rahul,M,IT,rahulgmail.com,+91-9876543210,,45000,09 Feb 25, Bangalore,-5
+ST1063,Aisha,M,I.T,,+91-9876543210,Absent,"?45,000",27/06/2025,Pune,-5
+ST1091,Deepak,m,CSE,deepak@gmail.com,N/A,85%,45k,17/05/2025,Hyderabad ,-5
+ST1322,John,male,CSE,,98765 43210,92,"?45,000",2025-07-31,Pune,AB
+ST1192,Rahul,Male,CSE,,98765 43210,,"?60,500",2025-01-15,Delhi,58
+ST1191,Balakrishnan,m,IT,balakrishnangmail.com,N/A,Absent,Paid,12/01/2026,,
+ST1477,Sara,Female,AI&DS,sara@gamil.com,N/A,92,45k,2025-09-21, Bangalore,
+ST1383,Deepak,F,Artificial Intelligence,,98765 43210,,45000,11 May 25, Bangalore,100
+ST1502,John,m,Computer Science,john@gamil.com,9876543210,101%,"?45,000",08/12/2025,Delhi,AB
+ST1296,mOhammed,Male,Artificial Intelligence,mohammedgmail.com,9876543210,85%,45k,07/03/2026, Bangalore,77
+ST1503,Aisha,F,AI&DS,,09876543210,Absent,"?45,000",18 Apr 26,Delhi,82
+ST1296,John,M,Artificial Intelligence,johngmail.com,+91-9876543210,,45000,2025-09-21,,35
+ST1410,Rahul,Female,Computer Science,rahul@gamil.com,N/A,Absent,"?45,000",2025-11-25,Delhi,
+ST1276,Monica,m,AIDS,,+91-9876543210,Absent,45k,2025-11-04,Delhi,105
+ST1464,Sara,M,AI&DS,sara@gmail.com,09876543210,Absent,"?60,500",26 Jan 26,,105
+ST1074,,m,Computer Science,user@gamil.com,+91-9876543210,,"?60,500",07 Jan 25,Hyderabad ,
+ST1110,mOhammed,female,CSE,mohammed@gamil.com,9876543210,92,,2025-09-17, Bangalore,105
+ST1129,Rahul,male,AI&DS,,N/A,101%,"?60,500",2025-07-21,Pune,98
+ST1190,John,M,AI&DS,john@gmail.com,N/A,,45k,2025-06-14,Delhi,
+ST1451,Rahul,Male,IT,rahul@gamil.com,09876543210,Absent,,2025-04-26,Delhi,83
+ST1397,mOhammed,m,IT,mohammed@gamil.com,+91-9876543210,,"?60,500",2025-03-18,Chennai,105
+ST1025,mOhammed,female,Computer Science,mohammed@gmail.com,N/A,,"?60,500",2026-03-13,Chennai,
+ST1066,Sara,M,I.T,sara@gamil.com,9876543210,Absent,"?45,000",2025-10-26,Pune,-5
+ST1393,Aisha,F,Artificial Intelligence,aisha@gmail.com,09876543210,101%,"?45,000",21/07/2025, Bangalore,
+ST1120,Balakrishnan,Female,I.T,balakrishnan@gamil.com,98765 43210,,45k,18 Jan 26,Delhi,
+ST1149,mOhammed,m,Artificial Intelligence,mohammed@gmail.com,+91-9876543210,Absent,"?60,500",2026-03-06,Hyderabad ,105
+ST1430,Rahul,Male,AIDS,rahul@gamil.com,9876543210,Absent,"?45,000",04 Nov 25, Bangalore,
+ST1180,John,male,IT,john@gamil.com,98765 43210,85%,"?45,000",30 Jan 25,Hyderabad ,61
+ST1108,Balakrishnan,Female,AI DS,balakrishnangmail.com,+91-9876543210,0.78,"?60,500",25/08/2025,Delhi,-5
+ST1303,Aisha,male,AI DS,aisha@gamil.com,+91-9876543210,Absent,,09/07/2025,,-5
+ST1253,Monica,male,IT,,9876543210,0.78,"?60,500",08/04/2026,Chennai,-5
+ST1088,John,male,Computer Science,john@gamil.com,+91-9876543210,0.78,45000,13 Jan 26,,-5
+ST1397,Priya,M,CSE,priya@gmail.com,98765 43210,85%,45000,2025-06-19,Delhi,
+ST1427, Huzaifa ,male,Artificial Intelligence,,N/A,0.78,,02/05/2025,Delhi,
+ST1485,Deepak,F,IT,,+91-9876543210,85%,"?45,000",10/07/2025, Bangalore,-5
+ST1398,John,F,AIDS,,9876543210,0.78,,03/06/2025,Chennai,
+ST1327,Rahul,,I.T,,09876543210,92,"?45,000",2025-04-28,Delhi,
+ST1477,Aisha,,Artificial Intelligence,aisha@gmail.com,09876543210,0.78,,09 Jul 25,Delhi,30
+ST1214,Rahul,F,I.T,,09876543210,,45000,19 Jan 25, Bangalore,AB
+ST1188,Aisha,m,AIDS,,09876543210,85%,45k,07/05/2026, Bangalore,44
+ST1273,Sara,female,I.T,,98765 43210,0.78,,17 Jan 25,Delhi,AB
+ST1365,Deepak,Male,Artificial Intelligence,,09876543210,92,Paid,27 Aug 25,,-5
+ST1361,Sara,,AI DS,sara@gmail.com,09876543210,101%,Paid,01 Aug 25,Hyderabad ,
+ST1086,Sara,M,Computer Science,sara@gamil.com,+91-9876543210,,"?45,000",27/02/2025,Pune,AB
+ST1139,Rahul,,I.T,,9876543210,92,"?45,000",2026-03-04,Delhi,
+ST1092, Huzaifa ,m,AI DS,huzaifa@gmail.com,N/A,92,"?45,000",2025-06-16,Delhi,43
+ST1140,Priya,m,AI&DS,,9876543210,85%,"?45,000",28/11/2025,Hyderabad ,
+ST1222,Rahul,Male,AI DS,,09876543210,101%,,2025-03-20,,AB
+ST1123,Aisha,,IT,aisha@gmail.com,9876543210,,Paid,28 Aug 25,Chennai,28
+ST1446,Aisha,female,AI&DS,aisha@gamil.com,N/A,101%,45000,18/03/2026,,AB
+ST1025,mOhammed,M,Artificial Intelligence,mohammed@gamil.com,98765 43210,85%,"?45,000",03/11/2025,,
+ST1067,Sara,female,AI&DS,sara@gamil.com,09876543210,0.78,"?45,000",2026-02-05, Bangalore,105
+ST1300,Sara,M,CSE,,98765 43210,Absent,,16 Jan 25,,AB
+ST1426,,Female,Computer Science,user@gmail.com,09876543210,85%,45000,13 Mar 25,,105
+ST1283,Sara,m,Computer Science,,98765 43210,92,"?45,000",21 Jan 25,Delhi,AB
+ST1239,Rahul,Male,Computer Science,rahul@gmail.com,+91-9876543210,Absent,"?60,500",09/03/2025, Bangalore,-5
+ST1088,John,male,Artificial Intelligence,,9876543210,85%,45k,02/06/2025, Bangalore,AB
+ST1322,Balakrishnan,M,IT,balakrishnan@gmail.com,9876543210,,,09/06/2025,Hyderabad ,105
+ST1174,,F,AIDS,user@gmail.com,N/A,,,14/01/2026,Delhi,90
+ST1266,mOhammed,m,Computer Science,,9876543210,92,"?45,000",17/04/2025,Chennai,52
+ST1290,Sara,male,AI DS,sara@gamil.com,N/A,92,45000,2025-04-04,Hyderabad ,AB
+ST1404,Aisha,Female,IT,aishagmail.com,N/A,0.78,"?60,500",22 Feb 25,Pune,AB
+ST1030,Priya,Male,I.T,priya@gamil.com,9876543210,101%,45000,26/05/2025,Delhi,
+ST1437,Sara,m,IT,saragmail.com,N/A,Absent,45k,2025-05-28,Chennai,-5
+ST1211,Sara,Female,CSE,,+91-9876543210,Absent,Paid,13 Oct 25,Pune,
+ST1177,Balakrishnan,,AI DS,,+91-9876543210,Absent,45k,14/01/2026,Pune,105
+ST1129,Monica,female,CSE,monicagmail.com,+91-9876543210,92,Paid,15/04/2026,Chennai,-5
+ST1119,Sara,Female,AI&DS,sara@gmail.com,09876543210,Absent,45k,24/02/2026, Bangalore,-5
+ST1356,Priya,Male,Computer Science,priyagmail.com,09876543210,,45k,27/04/2025,,
+ST1455,mOhammed,M,IT,mohammed@gmail.com,98765 43210,85%,"?60,500",21/08/2025,Hyderabad ,
+ST1176,John,male,AIDS,,+91-9876543210,85%,,28 Jul 25,Hyderabad ,AB
+ST1294,Monica,Male,AIDS,monica@gamil.com,9876543210,92,"?45,000",20/01/2025,Pune,AB
+ST1268,John,M,AIDS,john@gamil.com,09876543210,,45k,2026-04-09,Delhi,AB
+ST1085,Deepak,m,IT,deepak@gamil.com,09876543210,92,,2026-01-25,Chennai,-5
+ST1358,Rahul,,AIDS,rahul@gmail.com,09876543210,92,45000,22/02/2026, Bangalore,
+ST1390, Huzaifa ,M,AI&DS,huzaifa@gmail.com,98765 43210,,"?45,000",2026-01-03,Delhi,62
+ST1093, Huzaifa ,Male,AI DS,,98765 43210,85%,45k,2025-06-06,,
+ST1163,Aisha,F,IT,aisha@gmail.com,98765 43210,85%,45000,22/12/2025,Delhi,AB
+ST1160,Deepak,m,I.T,deepak@gamil.com,09876543210,85%,Paid,26/11/2025,Chennai,105
+ST1281, Huzaifa ,M,I.T,huzaifa@gamil.com,+91-9876543210,0.78,,26/10/2025,,72
+ST1033, Huzaifa ,m,AIDS,,98765 43210,0.78,Paid,2026-04-04,,-5
+ST1195,John,,Artificial Intelligence,john@gmail.com,N/A,0.78,45000,2025-02-14, Bangalore,AB
+ST1192,Monica,m,AIDS,,09876543210,85%,45k,2026-05-04,Hyderabad ,89
+ST1233,Rahul,,AI&DS,rahul@gamil.com,+91-9876543210,85%,45k,04/05/2025, Bangalore,
+ST1154,John,M,I.T,,+91-9876543210,92,45k,2026-04-19,Hyderabad ,73
+ST1500,Sara,m,IT,sara@gamil.com,9876543210,101%,"?45,000",02 Apr 26,Pune,AB
+ST1409,Deepak,F,CSE,,+91-9876543210,85%,45000,2025-09-08,Hyderabad ,96
+ST1053,Priya,m,CSE,priyagmail.com,98765 43210,101%,45000,2026-05-07,Hyderabad ,-5
+ST1265,Deepak,,I.T,deepak@gamil.com,9876543210,0.78,45000,2025-10-31,Delhi,58
+ST1424,Rahul,m,AI&DS,rahulgmail.com,9876543210,85%,45k,01/02/2026,Hyderabad ,-5
+ST1358,Monica,male,CSE,,98765 43210,0.78,Paid,17/01/2025,Pune,-5
+ST1409,Monica,male,AIDS,,98765 43210,92,"?45,000",23 Aug 25,Delhi,70
+ST1337,John,male,IT,johngmail.com,9876543210,85%,45000,2025-11-03,Pune,AB
+ST1494,mOhammed,male,Computer Science,mohammed@gmail.com,9876543210,Absent,"?45,000",2026-02-08,Delhi,-5
+ST1220,John,Male,IT,,98765 43210,,Paid,06 Dec 25,Hyderabad ,AB
+ST1387,Sara,m,AIDS,sara@gamil.com,98765 43210,Absent,,22/04/2026,Pune,105
+ST1376,Sara,female,CSE,sara@gmail.com,+91-9876543210,85%,45000,2025-09-06,Hyderabad ,AB
+ST1160,Priya,female,I.T,priya@gmail.com,09876543210,Absent,,31/01/2025,Delhi,AB
+ST1033,Deepak,female,AI DS,deepakgmail.com,N/A,92,Paid,2025-08-06,Chennai,99
+ST1444,Sara,female,I.T,sara@gmail.com,98765 43210,Absent,,11 Dec 25, Bangalore,-5
+ST1010,Sara,male,I.T,,+91-9876543210,Absent,Paid,20/05/2025,Chennai,-5
+ST1187,Balakrishnan,female,Computer Science,balakrishnan@gamil.com,N/A,85%,"?45,000",07/01/2025, Bangalore,105
+ST1050,Aisha,,Computer Science,aisha@gamil.com,09876543210,92,45k,15 Dec 25, Bangalore,105
+ST1082,Balakrishnan,,IT,balakrishnan@gamil.com,9876543210,Absent,45000,26/11/2025,,AB
+ST1167,mOhammed,Female,CSE,,9876543210,0.78,,20/11/2025,Hyderabad ,AB
+ST1504,Priya,F,IT,priya@gamil.com,98765 43210,0.78,"?45,000",2025-08-20,Hyderabad ,
+ST1038,Balakrishnan,Female,Artificial Intelligence,balakrishnangmail.com,09876543210,,Paid,02/01/2026,Pune,61
+ST1261,Deepak,m,CSE,deepakgmail.com,+91-9876543210,92,45k,09 Apr 25,Delhi,
+ST1357,John,Male,AI&DS,john@gmail.com,09876543210,92,"?45,000",10/01/2026,Hyderabad ,-5
+ST1456,mOhammed,Male,Computer Science,,98765 43210,101%,"?45,000",25 May 25,Chennai,29
+ST1359,Monica,Male,AIDS,,N/A,101%,Paid,2025-07-30,Hyderabad ,AB
+ST1461,John,M,I.T,johngmail.com,N/A,Absent,"?60,500",21/01/2025,,
+ST1519,Aisha,M,AIDS,aisha@gmail.com,09876543210,85%,"?60,500",28/03/2025,Chennai,
+ST1190,John,m,I.T,john@gmail.com,+91-9876543210,0.78,"?45,000",20 Nov 25, Bangalore,AB
+ST1353,Monica,m,AIDS,monicagmail.com,98765 43210,92,45000,14/02/2025,,
+ST1114,Balakrishnan,Male,Artificial Intelligence,balakrishnangmail.com,9876543210,92,45000,14/05/2025,Delhi,
+ST1460,Priya,m,Artificial Intelligence,priya@gamil.com,N/A,92,"?45,000",15/05/2025,Hyderabad ,-5
+ST1424,Monica,,I.T,monica@gmail.com,+91-9876543210,92,,02 Oct 25,Chennai,105
+ST1498, Huzaifa ,Female,AIDS,,9876543210,92,45000,2026-04-09,,-5
+ST1323,Monica,female,Computer Science,,9876543210,92,"?45,000",05 May 26,,AB
+ST1430,mOhammed,Male,IT,,9876543210,85%,45k,2025-03-06,Hyderabad ,
+ST1217,Deepak,m,Artificial Intelligence,,+91-9876543210,0.78,"?60,500",2026-05-10,Chennai,AB
+ST1032,Rahul,Female,AI DS,,98765 43210,101%,"?45,000",2026-04-11,Chennai,-5
+ST1408,Deepak,male,AI&DS,deepak@gamil.com,09876543210,,Paid,21 Nov 25,Chennai,-5
+ST1248,Deepak,male,Artificial Intelligence,deepak@gmail.com,9876543210,Absent,45000,15/05/2025,Pune,90
+ST1504,Aisha,M,AI DS,aisha@gamil.com,N/A,92,45000,17 Mar 25,,85
+ST1227,Balakrishnan,m,CSE,balakrishnan@gmail.com,09876543210,85%,"?60,500",10 Jul 25,Hyderabad ,
+ST1513, Huzaifa ,,AI DS,huzaifa@gmail.com,+91-9876543210,Absent,"?60,500",05/01/2026,Hyderabad ,105
+ST1404,Balakrishnan,m,CSE,balakrishnan@gamil.com,09876543210,85%,45000,2025-03-06,,91
+ST1468,Aisha,Male,I.T,aisha@gmail.com,98765 43210,Absent,45000,14/02/2026,Delhi,105
+ST1312, Huzaifa ,female,IT,huzaifa@gamil.com,98765 43210,85%,45k,28 May 25, Bangalore,AB
+ST1506,John,,AIDS,john@gmail.com,9876543210,92,45k,31/10/2025,Pune,AB
+ST1221,Monica,,CSE,monicagmail.com,9876543210,,,08/02/2026,Pune,24
+ST1002,Deepak,Female,AI DS,deepak@gamil.com,9876543210,92,"?45,000",2025-08-21,Pune,-5
+ST1212,Aisha,M,I.T,aishagmail.com,N/A,Absent,Paid,07/04/2025,Pune,105
+ST1128,John,Male,AIDS,john@gmail.com,09876543210,0.78,,01 Feb 25,,
+ST1041,Monica,,CSE,monica@gamil.com,9876543210,85%,Paid,2025-03-14,Pune,
+ST1197,,F,AI&DS,user@gmail.com,98765 43210,0.78,"?60,500",05 Jun 25, Bangalore,60
+ST1258,John,F,AIDS,johngmail.com,09876543210,,Paid,06 Mar 26,,AB
+ST1264,Rahul,m,Computer Science,,09876543210,92,"?60,500",2025-12-29,Chennai,-5
+ST1385,,m,Artificial Intelligence,,09876543210,101%,45k,2026-02-21,,AB
+ST1081,Deepak,m,AIDS,deepakgmail.com,98765 43210,101%,45k,23 May 25,,
+ST1005,Aisha,,IT,aisha@gamil.com,N/A,Absent,45k,2026-04-16,Chennai,105
+ST1223,Monica,M,AI&DS,monica@gamil.com,N/A,,45000,2025-10-26, Bangalore,32
+ST1257, Huzaifa ,male,AIDS,huzaifa@gamil.com,09876543210,92,"?45,000",2025-01-06,Pune,-5
+ST1397,Aisha,M,Computer Science,aisha@gamil.com,09876543210,0.78,Paid,10/01/2025, Bangalore,105
+ST1315,Deepak,M,CSE,deepak@gmail.com,09876543210,85%,,2025-09-26,,
+ST1067,mOhammed,,Artificial Intelligence,,N/A,Absent,"?45,000",2025-08-30,Hyderabad ,
+ST1289,Priya,Male,Artificial Intelligence,priya@gamil.com,N/A,Absent,,13 Jun 25,Hyderabad ,
+ST1459,John,F,I.T,john@gamil.com,+91-9876543210,Absent,"?60,500",25/10/2025,Delhi,105
+ST1426,Priya,m,AI DS,priyagmail.com,9876543210,92,"?45,000",2025-02-26,Pune,105
+ST1461,Deepak,M,AI&DS,deepak@gamil.com,N/A,,45000,02/04/2025, Bangalore,AB
+ST1020,John,,AIDS,johngmail.com,9876543210,101%,Paid,20/01/2026,,-5
+ST1516,Rahul,,Computer Science,rahul@gamil.com,9876543210,,Paid,18 Feb 26,Delhi,105
+ST1382,mOhammed,female,AIDS,mohammed@gamil.com,98765 43210,101%,"?45,000",03 Aug 25, Bangalore,AB
+ST1290, Huzaifa ,F,AI&DS,huzaifa@gamil.com,9876543210,,"?60,500",02 Jan 25,Chennai,83
+ST1037,Aisha,Female,AIDS,aisha@gmail.com,98765 43210,101%,45000,2026-04-22,,93
+ST1375,mOhammed,Male,IT,mohammed@gmail.com,N/A,Absent,"?45,000",2025-02-26,Pune,52
+ST1446,,female,Computer Science,user@gamil.com,N/A,,"?45,000",06/07/2025,,56
+ST1294,Monica,m,Computer Science,,N/A,92,"?45,000",2026-05-11,Chennai,86
+ST1445,Deepak,Female,IT,,+91-9876543210,92,45000,28/01/2026,Hyderabad ,49
+ST1394,Deepak,F,AI&DS,deepak@gmail.com,9876543210,101%,"?60,500",12/11/2025,Chennai,105
+ST1199,Deepak,M,I.T,,98765 43210,92,"?60,500",04 May 25,,AB
+ST1162,Aisha,M,CSE,,9876543210,Absent,45k,16/09/2025,Chennai,
+ST1098,Priya,M,CSE,priya@gamil.com,N/A,101%,Paid,2025-05-22,Hyderabad ,105
+ST1013,Rahul,male,CSE,rahulgmail.com,N/A,101%,"?60,500",2026-03-10, Bangalore,-5
+ST1478, Huzaifa ,,IT,huzaifa@gamil.com,+91-9876543210,Absent,Paid,29 Jan 26,Chennai,105
+ST1451,Deepak,Male,AIDS,deepak@gamil.com,+91-9876543210,0.78,45000,01/11/2025,Pune,105
+ST1387,Aisha,male,Computer Science,aisha@gamil.com,N/A,92,"?45,000",2026-04-28,,AB
+ST1282,,F,Computer Science,,09876543210,,Paid,01/04/2026, Bangalore,105
+ST1051,Priya,,Computer Science,priya@gmail.com,98765 43210,85%,,16 Jan 26, Bangalore,105
+ST1280,Deepak,Male,CSE,,98765 43210,92,45k,04 Feb 25,Pune,105
+ST1157, Huzaifa ,female,I.T,huzaifa@gmail.com,98765 43210,,"?60,500",23/11/2025, Bangalore,93
+ST1245,Balakrishnan,male,I.T,,98765 43210,85%,"?45,000",2025-11-17,Chennai,AB
+ST1161,Balakrishnan,,AI DS,balakrishnangmail.com,98765 43210,Absent,45000,2025-11-07,Delhi,105
+ST1313,mOhammed,m,AI DS,mohammed@gamil.com,+91-9876543210,Absent,45000,12 Sep 25,Delhi,105
+ST1439,Sara,,CSE,sara@gmail.com,+91-9876543210,85%,"?45,000",26/03/2025,Chennai,20
+ST1075,Aisha,M,Artificial Intelligence,aishagmail.com,+91-9876543210,0.78,"?60,500",27 Oct 25, Bangalore,
+ST1251, Huzaifa ,M,AI&DS,,09876543210,92,Paid,06/06/2025,Hyderabad ,23
+ST1235,John,m,Artificial Intelligence,john@gmail.com,N/A,92,"?60,500",19 Mar 26,Delhi,AB
+ST1058,Deepak,male,AI DS,deepak@gamil.com,+91-9876543210,0.78,45k,2025-07-27,Delhi,87
+ST1022,John,,CSE,johngmail.com,98765 43210,,45k,09 Aug 25, Bangalore,-5
+ST1502,Monica,Male,AI&DS,monicagmail.com,09876543210,101%,45000,28 Apr 26,Delhi,105
+ST1305,Aisha,male,AI DS,,N/A,92,,13/08/2025,Pune,-5
+ST1319,Rahul,M,Computer Science,rahulgmail.com,+91-9876543210,101%,"?45,000",19/12/2025,Pune,-5
+ST1343,Balakrishnan,m,AIDS,,N/A,0.78,45000,13/02/2025, Bangalore,-5
+ST1151,Aisha,M,AIDS,,+91-9876543210,101%,"?60,500",24 Feb 26,,
+ST1395,Rahul,,I.T,rahul@gmail.com,9876543210,,"?60,500",22/02/2025,Hyderabad ,AB
+ST1398,Priya,Male,AI&DS,priyagmail.com,09876543210,Absent,"?45,000",27/07/2025,Hyderabad ,
+ST1065,Balakrishnan,M,IT,balakrishnangmail.com,9876543210,92,45k,05/02/2025,Pune,AB
+ST1488,mOhammed,Female,Computer Science,,N/A,0.78,"?45,000",21 Jun 25,Delhi,105
+ST1390, Huzaifa ,F,AI DS,,9876543210,Absent,Paid,2025-08-19, Bangalore,-5
+ST1410,Sara,Male,I.T,,98765 43210,101%,45000,2026-02-15,,AB
+ST1370,Monica,male,IT,monicagmail.com,+91-9876543210,Absent,45000,2025-01-06, Bangalore,105
+ST1066,,,CSE,usergmail.com,+91-9876543210,Absent,"?60,500",27/04/2026,Hyderabad ,105
+ST1115,,M,Artificial Intelligence,usergmail.com,9876543210,101%,"?60,500",2025-08-29,Delhi,AB
+ST1010,Priya,,AI&DS,priyagmail.com,9876543210,0.78,"?45,000",2026-01-05,Chennai,
+ST1018,Priya,female,AI DS,priyagmail.com,+91-9876543210,0.78,,30 Jul 25,Chennai,AB
+ST1268,John,,AIDS,johngmail.com,+91-9876543210,,Paid,2025-12-17,Hyderabad ,-5
+ST1158,Deepak,,CSE,deepakgmail.com,09876543210,Absent,,2025-11-05,Hyderabad ,105
+ST1287,Sara,,AI DS,,09876543210,101%,45k,06/03/2026,Pune,58
+ST1446,Sara,m,IT,sara@gmail.com,09876543210,0.78,Paid,2025-10-28, Bangalore,AB
+ST1204,Aisha,M,Computer Science,aisha@gamil.com,9876543210,,45k,17/08/2025,Chennai,67
+ST1126,Sara,m,IT,saragmail.com,N/A,0.78,"?45,000",28 Jan 26,Delhi,105
+ST1251,Aisha,Female,AI&DS,aishagmail.com,09876543210,85%,,03 Jun 25,Hyderabad ,105
+ST1104, Huzaifa ,,AIDS,,+91-9876543210,85%,45k,30/07/2025,Hyderabad ,105
+ST1444,Rahul,Male,Artificial Intelligence,,09876543210,0.78,Paid,17 Apr 25,Chennai,-5
+ST1243,Monica,Female,AI DS,monica@gamil.com,09876543210,,"?60,500",13/12/2025,Hyderabad ,
+ST1204,Rahul,female,CSE,rahul@gamil.com,N/A,0.78,"?45,000",2025-03-27,Delhi,105
+ST1499,Monica,female,CSE,monica@gmail.com,9876543210,92,45000,05 Nov 25,Hyderabad ,
+ST1151,Deepak,male,IT,,98765 43210,101%,45000,2025-07-29,Delhi,
+ST1282,mOhammed,male,CSE,mohammed@gmail.com,+91-9876543210,0.78,45k,26/08/2025,,52
+ST1071, Huzaifa ,,AIDS,huzaifa@gmail.com,09876543210,,45000,2025-08-08,,
+ST1127,Balakrishnan,M,Artificial Intelligence,balakrishnan@gamil.com,9876543210,92,45000,26/05/2025,Pune,48
+ST1501,Monica,m,I.T,monica@gamil.com,98765 43210,85%,"?60,500",07/11/2025,Delhi,AB
+ST1447,Balakrishnan,M,I.T,balakrishnan@gmail.com,98765 43210,92,45000,03 Apr 26, Bangalore,105
+ST1467,Deepak,female,I.T,deepak@gmail.com,9876543210,101%,45000,2025-12-30,Delhi,
+ST1383,Monica,m,IT,monica@gmail.com,09876543210,92,Paid,30 Sep 25,Pune,-5
+ST1283,mOhammed,Female,Computer Science,,98765 43210,92,45000,17/10/2025,Chennai,
+ST1418,Deepak,,I.T,,9876543210,0.78,"?45,000",2025-01-04,Chennai,24
+ST1425,Monica,F,Artificial Intelligence,monica@gamil.com,98765 43210,85%,,2026-01-29,Hyderabad ,-5
+ST1355,Aisha,M,IT,aisha@gmail.com,09876543210,92,45000,2025-03-05,,AB
+ST1148,Priya,male,Computer Science,priya@gmail.com,09876543210,92,45k,07 Jun 25, Bangalore,AB
+ST1078,John,male,AI&DS,john@gamil.com,98765 43210,92,,2026-03-04,,-5
+ST1515,Rahul,male,AIDS,rahulgmail.com,98765 43210,92,"?60,500",2025-01-05, Bangalore,57
+ST1376,Deepak,,AI DS,deepakgmail.com,09876543210,Absent,45k,11 Jan 25,Delhi,AB
+ST1369,Priya,Male,AI DS,priya@gamil.com,+91-9876543210,,,09/02/2026,Delhi,-5
+ST1143,mOhammed,F,Artificial Intelligence,mohammedgmail.com,9876543210,101%,"?60,500",04 Aug 25,Pune,105
+ST1003, Huzaifa ,M,I.T,huzaifagmail.com,N/A,101%,,09/08/2025,,-5
+ST1035,Monica,m,I.T,monica@gamil.com,98765 43210,Absent,Paid,11 Sep 25,Delhi,105
+ST1249,Deepak,M,CSE,deepakgmail.com,N/A,,,23 Oct 25,Pune,105
+ST1500,,F,AIDS,user@gmail.com,98765 43210,,45000,2025-06-04,Pune,105
+ST1412,Priya,male,IT,priya@gamil.com,9876543210,101%,45k,24/11/2025,Hyderabad ,89
+ST1295,Rahul,m,Artificial Intelligence,rahulgmail.com,+91-9876543210,0.78,"?60,500",18 Aug 25,Pune,97
+ST1105,John,male,Artificial Intelligence,johngmail.com,98765 43210,85%,Paid,20 Apr 26, Bangalore,-5
+ST1459,Priya,m,I.T,priya@gamil.com,N/A,92,"?60,500",09 Jul 25,Delhi,AB
+ST1294,Rahul,female,I.T,rahul@gmail.com,N/A,101%,"?60,500",17/08/2025,Hyderabad ,AB
+ST1192,Rahul,Female,AI DS,rahul@gmail.com,+91-9876543210,92,,09/04/2025,Hyderabad ,105
+ST1269,Sara,Female,AI&DS,,+91-9876543210,85%,"?45,000",23/12/2025,Hyderabad ,AB
+ST1363,mOhammed,female,AI&DS,mohammed@gamil.com,N/A,85%,,27/09/2025,Delhi,AB
+ST1055,Priya,m,CSE,priya@gmail.com,98765 43210,0.78,,07 Jun 25,Delhi,105
+ST1042,Aisha,m,Computer Science,aisha@gamil.com,9876543210,,Paid,2026-03-09, Bangalore,AB
+ST1508,Sara,Male,Computer Science,sara@gmail.com,09876543210,Absent,Paid,2025-10-27,Chennai,-5
+ST1438,Priya,Male,AIDS,priya@gmail.com,09876543210,101%,"?60,500",01/06/2025, Bangalore,48
+ST1297,Sara,female,Artificial Intelligence,,+91-9876543210,,45000,2025-06-02,Chennai,105
+ST1091,Priya,,AI DS,,+91-9876543210,,"?45,000",14 Nov 25,Pune,AB
+ST1089,Balakrishnan,male,Artificial Intelligence,balakrishnan@gamil.com,98765 43210,Absent,"?60,500",05 Nov 25, Bangalore,
+ST1049,,M,AI&DS,user@gamil.com,09876543210,0.78,45k,30/09/2025, Bangalore,-5
+ST1441,Priya,Male,Artificial Intelligence,,9876543210,85%,45000,06/09/2025,Hyderabad ,105
+ST1258,Aisha,female,CSE,,N/A,0.78,45k,2025-02-15,Delhi,
+ST1001,Balakrishnan,female,IT,balakrishnangmail.com,N/A,85%,,24/08/2025,Chennai,AB
+ST1145,mOhammed,F,Computer Science,mohammed@gamil.com,9876543210,85%,"?60,500",2025-06-24,Pune,-5
+ST1075,Rahul,male,IT,rahul@gmail.com,09876543210,,"?45,000",01 Jul 25,Delhi,AB
+ST1414, Huzaifa ,M,Artificial Intelligence,,98765 43210,92,45000,2025-09-27,Chennai,
+ST1408,John,M,I.T,johngmail.com,09876543210,85%,"?45,000",19/03/2025,,AB
+ST1164,Aisha,F,AIDS,aisha@gamil.com,09876543210,85%,45000,29/01/2025, Bangalore,
+ST1498,mOhammed,Male,Computer Science,,09876543210,92,45000,26 Mar 25,Chennai,105
+ST1076,John,M,AI&DS,john@gamil.com,98765 43210,0.78,"?45,000",19 Aug 25,Chennai,
+ST1408,Deepak,Male,AI&DS,deepak@gmail.com,+91-9876543210,,45000,2025-04-16,Hyderabad ,105
+ST1407,Monica,female,IT,monica@gamil.com,09876543210,Absent,Paid,16/05/2025,Delhi,94
+ST1067,Rahul,female,I.T,rahulgmail.com,09876543210,0.78,"?60,500",25 Mar 25,Pune,90
+ST1440,Deepak,Male,AI DS,deepakgmail.com,09876543210,0.78,"?45,000",26 Apr 26,Pune,AB
+ST1128, Huzaifa ,M,I.T,,09876543210,101%,"?45,000",2025-03-26,,96
+ST1174,Aisha,m,IT,aisha@gamil.com,+91-9876543210,85%,Paid,2025-02-15,Hyderabad ,50
+ST1504, Huzaifa ,M,Computer Science,huzaifa@gamil.com,9876543210,Absent,"?60,500",2025-12-19,Delhi,49
+ST1237,Deepak,m,AI&DS,deepak@gmail.com,98765 43210,0.78,45000,20 May 25,Pune,AB
+ST1237,Priya,female,Artificial Intelligence,priya@gmail.com,N/A,92,Paid,29/03/2025,Hyderabad ,76
+ST1137,Monica,female,AI&DS,monica@gmail.com,98765 43210,0.78,45000,03/10/2025, Bangalore,105
+ST1419,Sara,,IT,,98765 43210,85%,,09 Dec 25,Chennai,AB
+ST1294, Huzaifa ,female,CSE,,+91-9876543210,0.78,"?45,000",08 Nov 25,Hyderabad ,105
+ST1479,Deepak,Female,IT,,9876543210,85%,45000,2025-09-30,Chennai,105
+ST1259,Priya,,CSE,priya@gamil.com,09876543210,0.78,45k,19 May 25,Pune,-5
+ST1077,mOhammed,M,CSE,mohammed@gamil.com,+91-9876543210,0.78,45k,17 Nov 25, Bangalore,
+ST1143,Priya,M,CSE,priyagmail.com,N/A,85%,"?45,000",2025-01-03, Bangalore,AB
+ST1194,Balakrishnan,F,AI DS,balakrishnan@gmail.com,9876543210,Absent,Paid,09/10/2025,,-5
+ST1423,Balakrishnan,F,AI&DS,balakrishnan@gamil.com,N/A,101%,45k,18 Apr 26,Delhi,-5
+ST1171,,male,IT,,+91-9876543210,92,45k,2026-05-05, Bangalore,AB
+ST1071, Huzaifa ,male,IT,,09876543210,0.78,"?60,500",2025-05-20, Bangalore,
+ST1050,Deepak,F,IT,deepakgmail.com,98765 43210,Absent,"?60,500",25/07/2025,Hyderabad ,AB
+ST1063,Balakrishnan,Male,AI DS,balakrishnangmail.com,9876543210,85%,"?60,500",14 Mar 25,Hyderabad ,105
+ST1135,John,F,Computer Science,john@gamil.com,N/A,Absent,,2025-11-19,Hyderabad ,AB
+ST1318,Aisha,M,Artificial Intelligence,aisha@gamil.com,98765 43210,92,,2025-12-20,Delhi,105
+ST1338,Rahul,M,AI&DS,rahul@gmail.com,+91-9876543210,101%,45k,23 Jan 25,,105
+ST1384,John,female,CSE,johngmail.com,N/A,0.78,"?60,500",2025-12-30,Hyderabad ,38
+ST1359,Sara,M,AI DS,sara@gamil.com,N/A,85%,Paid,24 Jan 25,Hyderabad ,
+ST1047,John,m,AI DS,johngmail.com,09876543210,0.78,"?60,500",07 Jan 26, Bangalore,105
+ST1302,Monica,Male,I.T,monica@gmail.com,98765 43210,92,Paid,22/03/2026,Hyderabad ,75
+ST1158,mOhammed,male,AIDS,mohammed@gmail.com,98765 43210,,"?60,500",01/10/2025,,-5
+ST1375, Huzaifa ,male,Computer Science,huzaifa@gamil.com,9876543210,,Paid,02 Jan 25, Bangalore,
+ST1209,Aisha,Female,Computer Science,,98765 43210,0.78,Paid,30/04/2026,Hyderabad ,
+ST1136,Deepak,Male,I.T,deepak@gamil.com,09876543210,101%,Paid,27 Oct 25,Chennai,105
+ST1506, Huzaifa ,Male,CSE,huzaifagmail.com,09876543210,0.78,45k,2025-07-05,Chennai,
+ST1051,Priya,,IT,priyagmail.com,09876543210,,"?45,000",2025-10-26,Delhi,
+ST1402,John,male,AIDS,johngmail.com,N/A,85%,45k,2025-11-30,Chennai,AB
+ST1081,John,Male,CSE,john@gmail.com,+91-9876543210,92,45000,05 Jul 25,Pune,105
+ST1380,Balakrishnan,Male,CSE,balakrishnan@gamil.com,9876543210,92,,2026-05-11,Pune,105
+ST1298,Sara,female,AI DS,sara@gmail.com,09876543210,85%,45000,2026-01-05,Delhi,52
+ST1145,Rahul,F,I.T,rahul@gamil.com,N/A,,,16 Feb 26,Delhi,56
+ST1416,Deepak,M,CSE,deepak@gamil.com,9876543210,101%,45k,2025-01-06, Bangalore,AB
+ST1259,Monica,Female,AI DS,,+91-9876543210,85%,,05/12/2025,Delhi,-5
+ST1489,Monica,male,AI&DS,,09876543210,101%,,10 Feb 25,Hyderabad ,
+ST1000,Priya,male,IT,priya@gamil.com,09876543210,0.78,,21 Jan 25,Pune,105
+ST1335,John,female,AI&DS,john@gmail.com,N/A,,45000,2025-01-15,Delhi,AB
+ST1070,John,m,Artificial Intelligence,,9876543210,,45000,14 Aug 25,Delhi,-5
+ST1274,Monica,Female,CSE,monica@gamil.com,98765 43210,101%,Paid,2026-03-16,Delhi,-5
+ST1497,Sara,,I.T,saragmail.com,9876543210,0.78,"?60,500",17/06/2025,Pune,AB
+ST1199,mOhammed,male,IT,,+91-9876543210,,"?45,000",2025-08-04,Delhi,AB
+ST1513,Priya,F,Computer Science,,09876543210,0.78,45k,15/04/2026,,70
+ST1312,Monica,male,Computer Science,monicagmail.com,+91-9876543210,101%,"?60,500",03 Dec 25,Pune,
+ST1142,Aisha,Female,AI&DS,aisha@gamil.com,09876543210,Absent,"?60,500",06 Jun 25,,AB
+ST1036,John,Female,I.T,john@gamil.com,98765 43210,,Paid,2026-02-11,Pune,36
+ST1044,Rahul,M,I.T,rahulgmail.com,09876543210,85%,Paid,03 Aug 25,Chennai,105
+ST1022,mOhammed,M,I.T,mohammedgmail.com,09876543210,0.78,,09 Apr 26,,26
+ST1480,Sara,F,AI&DS,saragmail.com,9876543210,85%,Paid,16/01/2025,Pune,105
+ST1004,,F,Computer Science,user@gmail.com,09876543210,101%,"?45,000",27 Jan 26,Delhi,-5
+ST1265,Rahul,female,CSE,rahul@gmail.com,98765 43210,92,45000,17/12/2025, Bangalore,
+ST1132,Sara,,I.T,,9876543210,0.78,,17 Jan 25,Hyderabad ,105
+ST1491,Sara,Female,I.T,sara@gmail.com,98765 43210,101%,Paid,04/01/2025,Pune,94
+ST1471,Aisha,Female,AI DS,,98765 43210,Absent,45000,19 Nov 25,Hyderabad ,-5
+ST1494,Rahul,male,Artificial Intelligence,rahulgmail.com,09876543210,Absent,"?60,500",02/05/2025,,105
+ST1235, Huzaifa ,m,AI DS,huzaifagmail.com,9876543210,Absent,45k,2025-08-24,Pune,-5
+ST1298,John,,CSE,john@gmail.com,9876543210,,"?45,000",01 Jan 26,,AB
+ST1127,Rahul,F,AIDS,rahul@gmail.com,+91-9876543210,92,Paid,2025-10-24,Delhi,-5
+ST1462,Monica,male,AI&DS,monica@gamil.com,9876543210,,"?45,000",01/01/2026,Delhi,AB
+ST1511,Balakrishnan,male,AI DS,balakrishnangmail.com,N/A,92,45000,2025-04-01,,-5
+ST1191,Deepak,Female,Computer Science,deepak@gmail.com,9876543210,85%,"?45,000",03/02/2026,Chennai,
+ST1133,Deepak,m,Artificial Intelligence,,N/A,92,Paid,17 Jan 26,Delhi,AB
+ST1261,Monica,male,Artificial Intelligence,,9876543210,101%,,2025-09-17,Pune,AB
+ST1474,Balakrishnan,F,CSE,balakrishnangmail.com,9876543210,92,Paid,18/09/2025,Hyderabad ,
+ST1407,Balakrishnan,female,Artificial Intelligence,balakrishnan@gamil.com,N/A,,45000,11 Apr 25,,-5
+ST1206, Huzaifa ,,IT,huzaifagmail.com,98765 43210,92,"?60,500",2025-04-09, Bangalore,20
+ST1369,Sara,,Artificial Intelligence,,98765 43210,,"?60,500",12 Dec 25, Bangalore,AB
+ST1248,Sara,m,Artificial Intelligence,sara@gamil.com,09876543210,0.78,45000,2025-09-17,Hyderabad ,44
+ST1257,John,Female,AIDS,john@gmail.com,09876543210,0.78,,2025-09-19,Pune,AB
+ST1019,Balakrishnan,Female,AI DS,balakrishnan@gamil.com,98765 43210,Absent,45k,2026-05-08,Chennai,-5
+ST1444,mOhammed,m,I.T,,9876543210,Absent,Paid,2025-09-30,,-5
+ST1461,John,,CSE,john@gamil.com,98765 43210,,"?60,500",01 Sep 25,Delhi,
+ST1222,mOhammed,m,I.T,,+91-9876543210,0.78,,20/11/2025,Delhi,
+ST1051,Deepak,Male,AIDS,deepak@gamil.com,N/A,85%,"?60,500",01/02/2026,,
+ST1480,Sara,m,AIDS,sara@gmail.com,98765 43210,0.78,Paid,11 Jan 25,Chennai,95
+ST1248,Balakrishnan,M,AI&DS,balakrishnangmail.com,+91-9876543210,0.78,"?60,500",04/04/2026, Bangalore,34
+ST1273,Deepak,M,Artificial Intelligence,deepakgmail.com,09876543210,101%,"?60,500",2025-11-17,Hyderabad ,AB
+ST1501,mOhammed,,Computer Science,mohammedgmail.com,+91-9876543210,92,45000,09 Jul 25,,AB
+ST1067,Sara,female,Computer Science,sara@gmail.com,9876543210,Absent,Paid,2025-01-19,Delhi,59
+ST1309,Priya,Male,CSE,priya@gmail.com,+91-9876543210,85%,45000,26 Mar 25,,-5
+ST1112,Aisha,M,AI DS,,9876543210,92,45k,2025-09-22,Pune,AB
+ST1209,Balakrishnan,Female,Computer Science,balakrishnangmail.com,98765 43210,85%,Paid,2026-04-23,Chennai,105
+ST1153,Monica,,Artificial Intelligence,,N/A,,45k,2025-07-24,Chennai,-5
+ST1073,Balakrishnan,Female,CSE,balakrishnan@gamil.com,N/A,85%,"?45,000",10/02/2026,Chennai,105
+ST1325,Rahul,M,IT,rahul@gamil.com,9876543210,Absent,"?45,000",05/07/2025,,
+ST1069,Rahul,m,Artificial Intelligence,rahul@gamil.com,09876543210,,"?45,000",29 Nov 25,Delhi,AB
+ST1485,John,M,AIDS,,+91-9876543210,0.78,Paid,27/03/2025,Pune,95
+ST1195,Rahul,m,Artificial Intelligence,rahul@gmail.com,9876543210,92,45000,06/03/2025,Delhi,105
+ST1030,Balakrishnan,female,Computer Science,balakrishnangmail.com,+91-9876543210,101%,45000,2025-02-04, Bangalore,51
+ST1086,John,male,AIDS,john@gamil.com,09876543210,,45000,2025-05-03,Chennai,
+ST1353,Rahul,M,Computer Science,rahul@gamil.com,N/A,,"?60,500",2025-02-26,Delhi,21
+ST1424,Monica,Female,IT,monica@gamil.com,98765 43210,85%,,15 May 25,Chennai,78
+ST1053,Sara,Female,Artificial Intelligence,,9876543210,101%,,03/04/2026, Bangalore,105
+ST1000,Rahul,Male,AIDS,rahul@gamil.com,+91-9876543210,,Paid,2025-03-13,Pune,-5
+ST1464,John,,I.T,,N/A,Absent,Paid,2025-02-03,Delhi,71
+ST1514,Deepak,,CSE,,09876543210,Absent,45000,2025-01-10, Bangalore,AB
+ST1147,,female,Artificial Intelligence,user@gamil.com,+91-9876543210,0.78,Paid,2026-02-22,Chennai,89
+ST1240, Huzaifa ,Female,I.T,,9876543210,Absent,Paid,05 Jan 26,Pune,
+ST1135,Balakrishnan,m,AIDS,balakrishnan@gmail.com,98765 43210,85%,"?60,500",11/04/2026,Delhi,105
+ST1497,Rahul,F,AIDS,,N/A,92,,06/01/2025,,
+ST1114,Sara,m,Computer Science,sara@gamil.com,N/A,0.78,45000,2025-10-06,Hyderabad ,105
+ST1287,Aisha,Female,AIDS,,N/A,,45k,03/03/2026,,86
+ST1335,mOhammed,male,Artificial Intelligence,,9876543210,Absent,,2025-08-24,Hyderabad ,AB
+ST1273,Monica,M,Computer Science,monica@gamil.com,9876543210,101%,"?60,500",18 Feb 25, Bangalore,AB
+ST1107,Aisha,Male,CSE,aisha@gmail.com,98765 43210,,45000,2025-06-08,Pune,-5
+ST1359,Deepak,m,CSE,deepakgmail.com,9876543210,85%,"?60,500",19 Mar 26, Bangalore,
+ST1021,Rahul,male,AI&DS,rahul@gamil.com,98765 43210,92,"?60,500",31 Oct 25,Pune,-5
+ST1388,mOhammed,Female,Computer Science,mohammed@gamil.com,98765 43210,0.78,"?45,000",13 Apr 26,,91
+ST1091,Monica,m,CSE,monicagmail.com,09876543210,,45000,18 Feb 26,Delhi,
+ST1412,John,Male,AI&DS,,N/A,85%,"?45,000",30/10/2025,Chennai,105
+ST1131, Huzaifa ,male,Artificial Intelligence,,9876543210,Absent,45000,2025-12-23,,36
+ST1068,Rahul,M,AI DS,rahulgmail.com,+91-9876543210,Absent,Paid,09 Feb 26, Bangalore,AB
+ST1419,Balakrishnan,m,AI DS,,+91-9876543210,Absent,Paid,18/03/2026,Delhi,105
+ST1215,Priya,F,I.T,priya@gamil.com,9876543210,Absent,"?60,500",29 Jun 25,Pune,AB
+ST1316,Deepak,M,AIDS,deepakgmail.com,+91-9876543210,,,04 Jan 25,,33
+ST1053, Huzaifa ,male,IT,huzaifa@gmail.com,98765 43210,0.78,45000,11 Dec 25,Delhi,
+ST1024,Aisha,Male,Artificial Intelligence,,98765 43210,92,45000,24 Jun 25,,-5
+ST1058,,male,IT,usergmail.com,9876543210,,45k,20/10/2025,Pune,AB
+ST1403,Monica,m,AIDS,monica@gmail.com,09876543210,101%,45k,2025-08-10,,-5
+ST1170,Deepak,Male,AIDS,deepakgmail.com,9876543210,0.78,"?45,000",15 Sep 25,Hyderabad ,AB
+ST1299,Aisha,female,AIDS,aisha@gamil.com,N/A,Absent,45000,29 Nov 25,Pune,52
+ST1520,Aisha,M,Artificial Intelligence,aishagmail.com,98765 43210,0.78,45000,12/11/2025, Bangalore,-5
+ST1433,,Female,Computer Science,user@gmail.com,9876543210,0.78,"?60,500",2026-04-05,Delhi,105
+ST1315,Priya,Male,Artificial Intelligence,priya@gamil.com,9876543210,85%,Paid,27/03/2026, Bangalore,AB
+ST1102,Balakrishnan,M,I.T,balakrishnan@gamil.com,9876543210,101%,Paid,02/05/2025,Delhi,85
+ST1247,Sara,M,AI&DS,,N/A,,45k,24/02/2026,Delhi,105
+ST1192,Priya,F,AIDS,,9876543210,92,Paid,18 Jan 25,Hyderabad ,105
+ST1249,,Female,AI DS,usergmail.com,09876543210,,45k,20/03/2026,Delhi,
+ST1407,Balakrishnan,,Computer Science,balakrishnangmail.com,98765 43210,92,"?60,500",03/12/2025,Hyderabad ,
+ST1017,Rahul,m,Artificial Intelligence,rahul@gmail.com,98765 43210,0.78,45k,2025-02-26,Chennai,AB
+ST1448,Monica,m,AI&DS,monicagmail.com,98765 43210,101%,45k,25 Apr 25,Pune,53
+ST1193,Deepak,F,IT,deepak@gmail.com,9876543210,92,45000,14/05/2026,,105
+ST1384,Priya,M,Artificial Intelligence,priyagmail.com,N/A,Absent,45000,06/03/2026, Bangalore,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
